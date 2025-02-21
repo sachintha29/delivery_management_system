@@ -6,8 +6,8 @@
 
 ### **1. Clone the Repository**
 ```sh
-  git clone https://github.com/your-repo/student-management.git
-  cd student-management
+  git clone https://github.com/sachintha29/delivery_management_system.git
+  cd delivery_management_system
 ```
 
 ### **2. Install Dependencies**
